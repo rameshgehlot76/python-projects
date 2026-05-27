@@ -104,11 +104,9 @@ print(calendar.month(yy, mm))
 
 # Internet speed checker 
 import speedtest 
-
 st = speedtest.Speedtest()
 dl = st.download()
 up = st.upload() 
-
 print("Download Speed:", dl/1024/1024, "kbs")
 print("Upload Speed:", up/1024/1024, "kbs")
 
@@ -159,7 +157,6 @@ import pywhatkit as kit
 kit.sendwhatmsg("+918007844912", "Hello RAMESH this is an Automated message sent using Python!", 16,45) 
 # Replace with actual number and time
 # Note: The time is in 24-hour format (HH, MM). Make sure to set it a few minutes ahead of the current time.
-
 
 
 # Python program to generate password
@@ -234,7 +231,7 @@ def decode(secret):
 
 # Main Program 
 
-print("                🕵️‍♂️  Welcome to the SECRET CODE Translator! 🕵️‍♂️ ") 
+print("                   Welcome to the SECRET CODE Translator! 🕵️‍♂️ ") 
 print("   ")
 print("   ") 
 choice = input("Type 'encode' to encrypt or 'decode' to decrypt: ").lower() 

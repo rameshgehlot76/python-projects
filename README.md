@@ -3,7 +3,7 @@
 A collection of Python projects and mini programs built while 
 learning Python — ranging from CLI apps to automation tools.
 
-## Projects
+## Projects  
 
 ### 🤖 PyBot - Chatbot
 A terminal-based chatbot with keyword matching, real-time 

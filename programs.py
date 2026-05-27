@@ -197,7 +197,7 @@ print("Barcode Generated!")
 
   
 
-# 🕵️‍♂️🕵️‍♂️Secret Code Language🕵️‍♂️🕵️‍♂️ 
+# Secret Code Language🕵️‍♂️🕵️‍♂️ 
 # Secret Code Language Translator 
 
 def encode(message):
@@ -276,7 +276,6 @@ root.mainloop()
 
 
 # Password Strength Checker 
-
 pwd = input("Enter the password: ") 
 
 if len(pwd) < 8:

@@ -47,7 +47,7 @@ timezone using the phonenumbers library.
 
 ### 📱 WhatsApp Automation
 Sends automated WhatsApp messages at a scheduled time.
-**Tech:** Python, pywhatkit
+**Tech:** Python, pywhatkit 
 
 ### 🔑 Password Generator
 Generates strong 16-character passwords using letters, 

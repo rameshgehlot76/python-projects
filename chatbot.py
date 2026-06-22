@@ -3,8 +3,8 @@ import random
 import datetime 
 
 responses = {
-    "hi": ["Hello!", "Hey there!", "Hi! How are you today?", "Hey 👋"],
-        "hello": ["Hi!", "Hello!", "Hey!", "Hi there!"],
+    "hi": ["Hello!", "Hey there!", "Hii! How are you today?", "Hey 👋"],
+        "hello": ["Hii!", "Hello!", "Hey!", "Hi there!"],
         "how are you": ["I'm doing great! Thanks for asking.", "All good here 😄 How about you?", "Feeling awesome today!"],
         "what is your name": ["I'm PyBot!", "People call me PyBot — your Python buddy 🤖", "I'm your friendly chatbot."],
         "who created you": ["I was created by a Python developer just like you!", "A curious coder built me using Python."],
@@ -34,7 +34,7 @@ responses = {
         "default": [
             "I'm not sure I understand 🤔",
             "Can you rephrase that?",
-            "Hmm... that’s interesting! Tell me more.",
+            "Hmmm... that’s interesting! Tell me more.",
             "Sorry, I didn’t get that."
         ]
 } 

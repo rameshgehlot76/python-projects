@@ -52,6 +52,8 @@ Random number guessing game with attempt tracking and
 high/low hints.
 **Tech:** Python, random
 
+---
+
 ### ✅ To-Do List App
 Console-based task manager with add, view and remove 
 functionality.

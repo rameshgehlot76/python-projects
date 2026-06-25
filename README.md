@@ -17,6 +17,8 @@ A terminal-based chatbot with keyword matching, real-time
 date/time, programming jokes and friendly responses.
 **Tech:** Python, random, datetime
 
+---
+
 ### 🏦 Mini Banking System
 Multi-user banking app with PIN login, deposit, withdrawal, 
 balance check and transaction history.

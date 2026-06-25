@@ -202,6 +202,7 @@ python web_scraper_.py
 python programs.py
 ```
 
+---
 
 ## Tech Stack
 - Python 3

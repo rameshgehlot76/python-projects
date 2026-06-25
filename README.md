@@ -106,6 +106,8 @@ A simple desktop window with a clickable button built
 using Tkinter.
 **Tech:** Python, tkinter
 
+---
+
 ### 🔒 Password Strength Checker
 Checks password strength based on length, numbers and 
 uppercase letters.

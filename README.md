@@ -38,6 +38,8 @@ Secure OTP system that generates a 6-digit OTP, emails it
 to the user and verifies it within a 2-minute expiry window.
 **Tech:** Python, smtplib, MIME, random, time
 
+---
+
 ### 🌐 Web Scraper
 Scrapes website titles and H1 headings from TechCrunch AI 
 section and saves results to a text file.

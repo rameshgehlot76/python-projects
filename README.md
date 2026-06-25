@@ -220,3 +220,9 @@ python programs.py
 - Libraries: requests, BeautifulSoup, smtplib, 
   phonenumbers, pywhatkit, qrcode, barcode, tkinter
 
+---
+
+## 👨‍💻 Author
+**Ramesh Gehlot**  
+[GitHub](https://github.com/rameshgehlot76)
+

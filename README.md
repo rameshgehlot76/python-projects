@@ -8,6 +8,8 @@ A collection of real-world Python projects and mini programs —
 ranging from CLI apps, automation tools, web scraping, GUI apps 
 and security utilities.
 
+---
+
 ## Projects  
 
 ### 🤖 PyBot - Chatbot

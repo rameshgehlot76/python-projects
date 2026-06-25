@@ -99,6 +99,8 @@ Encodes and decodes messages using a custom word
 transformation algorithm.
 **Tech:** Python
 
+---
+
 ### 🖥️ Tkinter GUI App
 A simple desktop window with a clickable button built 
 using Tkinter.

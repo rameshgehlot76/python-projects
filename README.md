@@ -1,5 +1,7 @@
 # 🐍 Python Projects
 
+![Python](https://img.shields.io/badge/Python-3.10+-blue?style=for-the-badge&logo=python)
+
 A collection of Python projects and mini programs built while 
 learning Python — ranging from CLI apps to automation tools.
 

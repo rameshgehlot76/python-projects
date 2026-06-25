@@ -4,6 +4,9 @@
 ![Projects](https://img.shields.io/badge/Projects-16-orange?style=for-the-badge)
 ![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
 
+A collection of real-world Python projects and mini programs — 
+ranging from CLI apps, automation tools, web scraping, GUI apps 
+and security utilities.
 
 ## Projects  
 

@@ -31,6 +31,8 @@ CLI-based expense manager that stores data in a CSV file
 with category filtering and total spending summary.
 **Tech:** Python, CSV, OS
 
+---
+
 ### 🔐 OTP Generator
 Secure OTP system that generates a 6-digit OTP, emails it 
 to the user and verifies it within a 2-minute expiry window.

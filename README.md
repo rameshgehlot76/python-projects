@@ -45,6 +45,8 @@ Scrapes website titles and H1 headings from TechCrunch AI
 section and saves results to a text file.
 **Tech:** Python, requests, BeautifulSoup
 
+---
+
 ### 🎯 Number Guessing Game
 Random number guessing game with attempt tracking and 
 high/low hints.

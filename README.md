@@ -178,7 +178,8 @@ Reads a text file and counts total words and characters.
  Desktop GUI development 
 |
 
- 
+---
+
 ## How to Run
 Each file is independent. Run any file directly:
 ```bash

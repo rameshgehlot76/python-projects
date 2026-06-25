@@ -192,15 +192,6 @@ python-projects/
 
 ---
 
-## How to Run
-Each file is independent. Run any file directly:
-```bash
-python chatbot.py
-python expense-tracker.py
-python otp-generator.py
-python web_scraper_.py
-```
-
 ## Tech Stack
 - Python 3
 - Libraries: requests, BeautifulSoup, smtplib, 

@@ -215,6 +215,11 @@ python programs.py
 
 ---
 
+## Tech Stack
+- Python 3
+- Libraries: requests, BeautifulSoup, smtplib, 
+  phonenumbers, pywhatkit, qrcode, barcode, tkinter .
+  
 ---
 
 ## 👨‍💻 Author

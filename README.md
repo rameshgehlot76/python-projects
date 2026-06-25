@@ -96,5 +96,3 @@ python web_scraper_.py
 - Libraries: requests, BeautifulSoup, smtplib, 
   phonenumbers, pywhatkit, qrcode, barcode, tkinter
 
-
-

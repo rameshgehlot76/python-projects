@@ -24,6 +24,8 @@ Multi-user banking app with PIN login, deposit, withdrawal,
 balance check and transaction history.
 **Tech:** Python
 
+---
+
 ### 💸 Expense Tracker
 CLI-based expense manager that stores data in a CSV file 
 with category filtering and total spending summary.

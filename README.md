@@ -213,6 +213,8 @@ python programs.py
 - Security concepts like OTP generation and password strength
 - Working with third party Python libraries
 
+---
+
 ## Tech Stack
 - Python 3
 - Libraries: requests, BeautifulSoup, smtplib, 

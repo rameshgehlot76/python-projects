@@ -180,6 +180,18 @@ Reads a text file and counts total words and characters.
 
 ---
 
+## 📁 Project Structure
+python-projects/
+│
+├── chatbot.py
+├── mini-banking-system.py
+├── expense-tracker.py
+├── otp-generator.py
+├── web_scraper_.py
+└── programs.py
+
+---
+
 ## How to Run
 Each file is independent. Run any file directly:
 ```bash

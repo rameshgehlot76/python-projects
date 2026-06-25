@@ -113,6 +113,8 @@ Checks password strength based on length, numbers and
 uppercase letters.
 **Tech:** Python
 
+---
+
 ### 📝 Word & Character Counter
 Reads a text file and counts total words and characters.
 **Tech:** Python

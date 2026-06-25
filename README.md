@@ -86,6 +86,8 @@ Generates a QR code from any URL or text and saves it as
 an image.
 **Tech:** Python, qrcode
 
+---
+
 ### 📦 Barcode Generator
 Generates EAN13 barcodes and saves them as image files.
 **Tech:** Python, barcode

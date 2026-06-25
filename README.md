@@ -156,6 +156,27 @@ Reads a text file and counts total words and characters.
  phonenumbers 
 |
  Phone number lookup
+|
+|
+ pywhatkit 
+|
+ WhatsApp automation 
+|
+|
+ qrcode 
+|
+ QR code generation 
+|
+|
+ barcode 
+|
+ Barcode generation 
+|
+|
+ tkinter 
+|
+ Desktop GUI development 
+|
 
  
 ## How to Run

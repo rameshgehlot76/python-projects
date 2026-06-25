@@ -79,6 +79,8 @@ Generates strong 16-character passwords using letters,
 numbers and symbols.
 **Tech:** Python, random
 
+---
+
 ### 📊 QR Code Generator
 Generates a QR code from any URL or text and saves it as 
 an image.

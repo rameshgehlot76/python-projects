@@ -204,6 +204,15 @@ python programs.py
 
 ---
 
+## 📚 What I Learned
+- Building real-world CLI applications in Python
+- Working with external APIs and web scraping
+- Sending automated emails with SMTP and HTML formatting
+- File handling with CSV for data persistence
+- GUI development with Tkinter
+- Security concepts like OTP generation and password strength
+- Working with third party Python libraries
+
 ## Tech Stack
 - Python 3
 - Libraries: requests, BeautifulSoup, smtplib, 

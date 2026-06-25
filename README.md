@@ -121,6 +121,23 @@ Reads a text file and counts total words and characters.
 
 ---
 
+## 🛠️ Tech Stack
+|
+ Technology 
+|
+ Purpose 
+|
+|
+------------
+|
+---------
+|
+|
+ Python 3.10+ 
+|
+ Core language 
+
+ 
 ## How to Run
 Each file is independent. Run any file directly:
 ```bash

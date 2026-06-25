@@ -136,6 +136,26 @@ Reads a text file and counts total words and characters.
  Python 3.10+ 
 |
  Core language 
+|
+|
+ requests 
+|
+ HTTP requests for web scraping 
+|
+|
+ BeautifulSoup 
+|
+ HTML parsing 
+|
+|
+ smtplib 
+|
+ Email sending via Gmail SMTP 
+|
+|
+ phonenumbers 
+|
+ Phone number lookup
 
  
 ## How to Run

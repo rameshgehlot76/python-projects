@@ -119,6 +119,8 @@ uppercase letters.
 Reads a text file and counts total words and characters.
 **Tech:** Python
 
+---
+
 ## How to Run
 Each file is independent. Run any file directly:
 ```bash

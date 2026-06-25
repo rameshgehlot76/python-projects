@@ -66,6 +66,8 @@ Tracks phone number details like country, carrier and
 timezone using the phonenumbers library.
 **Tech:** Python, phonenumbers
 
+---
+
 ### 📱 WhatsApp Automation
 Sends automated WhatsApp messages at a scheduled time.
 **Tech:** Python, pywhatkit 

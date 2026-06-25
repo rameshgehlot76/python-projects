@@ -59,6 +59,8 @@ Console-based task manager with add, view and remove
 functionality.
 **Tech:** Python
 
+---
+
 ### 📞 Phone Number Tracker
 Tracks phone number details like country, carrier and 
 timezone using the phonenumbers library.

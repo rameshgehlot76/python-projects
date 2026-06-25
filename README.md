@@ -92,6 +92,8 @@ an image.
 Generates EAN13 barcodes and saves them as image files.
 **Tech:** Python, barcode
 
+---
+
 ### 🕵️ Secret Code Translator
 Encodes and decodes messages using a custom word 
 transformation algorithm.
